@@ -15,6 +15,7 @@ namespace Надосделать
         public Form1()
         {
             InitializeComponent();
+            this.BackColor = Color.Green;
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -31,5 +32,15 @@ namespace Надосделать
         {
 
         }
+        private void buttonExit_Click(object sender, EventArgs e)
+        {
+            if (MessageBox.Show("Вы уверены, что хотите выйти?", "Подтверждение",
+                                MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
+            {
+                Application.Exit();
+            }
+        }
+   
+ 
     }
 }
