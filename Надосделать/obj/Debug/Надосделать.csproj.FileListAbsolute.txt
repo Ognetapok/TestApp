@@ -1,0 +1,10 @@
+C:\Users\AMD_Machine\Desktop\Program\Надосделать\Надосделать\bin\Debug\Надосделать.exe.config
+C:\Users\AMD_Machine\Desktop\Program\Надосделать\Надосделать\bin\Debug\Надосделать.exe
+C:\Users\AMD_Machine\Desktop\Program\Надосделать\Надосделать\bin\Debug\Надосделать.pdb
+C:\Users\AMD_Machine\Desktop\Program\Надосделать\Надосделать\obj\Debug\Надосделать.csproj.AssemblyReference.cache
+C:\Users\AMD_Machine\Desktop\Program\Надосделать\Надосделать\obj\Debug\Надосделать.Form1.resources
+C:\Users\AMD_Machine\Desktop\Program\Надосделать\Надосделать\obj\Debug\Надосделать.Properties.Resources.resources
+C:\Users\AMD_Machine\Desktop\Program\Надосделать\Надосделать\obj\Debug\Надосделать.csproj.GenerateResource.cache
+C:\Users\AMD_Machine\Desktop\Program\Надосделать\Надосделать\obj\Debug\Надосделать.csproj.CoreCompileInputs.cache
+C:\Users\AMD_Machine\Desktop\Program\Надосделать\Надосделать\obj\Debug\Надосделать.exe
+C:\Users\AMD_Machine\Desktop\Program\Надосделать\Надосделать\obj\Debug\Надосделать.pdb
